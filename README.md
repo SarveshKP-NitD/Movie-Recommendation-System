@@ -544,7 +544,7 @@ This project highlights practical skills in machine learning, deep learning, rec
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Sarvesh Kumar Pal**
 
@@ -552,11 +552,11 @@ M.Tech – Computer Science & Engineering
 
 National Institute of Technology Delhi
 
-📧 Email: *(Add your email here)*
+📧 **Email:** 252210025@nitdelhi.ac.in
 
-🔗 GitHub: https://github.com/SarveshKP-NitD
+🔗 **GitHub:** [SarveshKP-NitD](https://github.com/SarveshKP-NitD)
 
-🔗 LinkedIn: *(Add your LinkedIn profile here)*
+💼 **LinkedIn:** [Sarvesh Kumar Pal](https://www.linkedin.com/in/sarveshkpal)
 
 ---
 
